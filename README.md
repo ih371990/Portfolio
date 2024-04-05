@@ -1,6 +1,7 @@
 # Introduction
 
-Hi there!  I'm Ian, and I'm passionate about exploring the world of data science. This repository serves as a record of my learning journey and a showcase of my data science projects.
+Hi there!  
+I'm Ian, and I'm passionate about exploring the world of data science. This repository serves as a record of my learning journey and a showcase of my data science projects.
 
 #### What you'll find here:
 
@@ -10,4 +11,5 @@ Hi there!  I'm Ian, and I'm passionate about exploring the world of data science
 
 #### Stay tuned:
 
-This repository is a work in progress, and I'm constantly learning and adding new projects.  Be sure to check back for updates!
+This repository is a work in progress, and I'm constantly learning and adding new projects.  
+Be sure to check back for updates!
