@@ -4,9 +4,9 @@ Hi there!  I'm Ian, and I'm passionate about exploring the world of data science
 
 #### What you'll find here:
 
-Projects: Dive into my data science projects, where I've applied various techniques to solve real-world problems. Each project includes a detailed write-up explaining the problem, methodology, analysis, and key findings.
+***Projects***: Dive into my data science projects, where I've applied various techniques to solve real-world problems. Each project includes a detailed write-up explaining the problem, methodology, analysis, and key findings.
 
-Learning Resources: Throughout my journey, I've compiled a collection of valuable learning resources. This section includes links to online courses, tutorials, and other helpful materials that have aided my learning.
+***Learning Resources***: Throughout my journey, I've compiled a collection of valuable learning resources. This section includes links to online courses, tutorials, and other helpful materials that have aided my learning.
 
 #### Stay tuned:
 
