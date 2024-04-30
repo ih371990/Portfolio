@@ -11,5 +11,10 @@ I'm Ian, and I'm passionate about exploring the world of data science. This repo
 
 #### Stay tuned:
 
-This repository is a work in progress, and I'm constantly learning and adding new projects.  
+This repository is a work in progress, and I'm constantly learning and adding new projects.
+
+Please also visit my Tableau portfolio here: https://public.tableau.com/app/profile/ih371990/viz/
+
 Be sure to check back for updates!
+
+
